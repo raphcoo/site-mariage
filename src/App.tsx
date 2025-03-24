@@ -172,7 +172,7 @@ function App() {
       <header className="relative h-[90vh] overflow-hidden">
   <div className="absolute inset-0 bg-black bg-opacity-40 z-10" />
   <img
-    src="./background4.jpg"
+    src="/background4.jpg"
     alt="Wedding Background"
     className="absolute inset-0 w-full h-full object-cover object-center"
     style={{ objectPosition: 'center' }}
